@@ -41,8 +41,8 @@ body {
     width: 50vw;
   }
   @media (max-width: 576px) {
-    height: 40vh;
-    width: 60vw;
+    height: 500px;
+    width: 700px;
   }
 
   #timer {
@@ -52,11 +52,11 @@ body {
     justify-content: center;
     align-items: center;
     @media (max-width: 768px) {
-      font-size: 3rem;
+      font-size: 5rem;
     }
-    @media (max-width: 576px) {
-      font-size: 2rem;
-    }
+    // @media (max-width: 576px) {
+    //   font-size: 2rem;
+    // }
   }
 }
 .action-button {
