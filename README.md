@@ -9,9 +9,9 @@
 
 #### 3 action button
 
-4.  play button - by tap on this button timer countdown will start
-5.  pause button - by tap on this button timer countdown will pause
-6.  restart button - by tap on this button timer countdown will restart
+4.  play button - by tap on this button timer will start
+5.  pause button - by tap on this button timer will pause
+6.  restart button - by tap on this button timer will restart
 
 ## folder structure
 
